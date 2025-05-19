@@ -1,0 +1,33 @@
+{
+	"info": {
+		"_postman_id": "1114278-b681d2c9-7839-4bfd-abd5-4e0b4f6a8a9c",
+		"name": "imari2 con -",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"id": "1114278-214599e5-495c-4bd8-9916-2918fc1d17b7",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "1114278-60bca511-e30d-4e0b-8f61-9f61e7434319",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
